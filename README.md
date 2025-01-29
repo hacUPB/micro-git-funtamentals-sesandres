@@ -19,4 +19,13 @@ git clone "url del repositorio"
 
 una vez hecho esto tendremos en nuestro dispositivo local el repositorio de github y ya podremos empezar a trabajar sobre el.
 
+### Enlace directo a archivos Markdown de carpeta docs
+
+| DOCUMENTO | ENLACE |
+|--------------|--------------|
+| Preliminares | [uso_consola.md](./docs/uso_consola.md) |
+| Como crear un repositorio local | [repositorio_local.md](./docs/repositorio_local.md) |
+| Como crear un repositorio remoto | [repositorio_remoto.md](./docs/repositorio_remoto.md) |
+
+
 
