@@ -1,0 +1,28 @@
+# Archivos binarios y ejecutables
+*.o
+*.exe
+*.out
+*.a
+*.so
+
+# Archivos de configuración específicos del entorno
+*.log
+*.tmp
+*.swp
+
+# Archivos generados por el compilador
+*.d
+*.dSYM/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de dependencias y bibliotecas externas
+vendor/
+deps/
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
