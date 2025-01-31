@@ -27,7 +27,8 @@ Y lo iniciamos.
 ```
 git init
 ```
-Y asi finalmente tendremos nuestro repositorio local creado correctamente.  
+Y asi finalmente tendremos nuestro repositorio local creado correctamente.
+  
 En el siguiente link encontrara informacion mas detallada y otros comandos para el uso dentro del repositorio local.
 
 [Creacion y configuracion de repositorio local](https://confusion-snapper-025.notion.site/Parte-1-Git-Repositorio-Local-183e8161b2a1815d88f2ebe974b7ad84)
