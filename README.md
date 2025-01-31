@@ -10,12 +10,15 @@ En este proyecto se presenta el repositorio pedido para la evaluacion 1 de micro
 
 ### Como clonar un repositorio de github
 
-Para clonar un repositorio ya creado en github se tiene que buscar una ubicacion dentro del dispositivo local y abir el git bash en esa ubicacion.
-luego con el siguiente comando se 
+Para clonar un repositorio ya creado en github se tiene que buscar una ubicacion dentro del dispositivo local y abir el git bash en esa ubicacion.  
+Luego se usa el siguiente comando para poder clonar el repositorio.
 
 ```
 git clone "url del repositorio"
 ```
+A continuacion se muestra un ejemplo dentro de git bash.
+
+![Ejemplo](./images/1.PNG)
 
 una vez hecho esto tendremos en nuestro dispositivo local el repositorio de github y ya podremos empezar a trabajar sobre el.
 
